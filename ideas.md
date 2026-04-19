@@ -1,7 +1,15 @@
-I. Pomysły 💡
+🇬🇧 EN
 
-- asystent AI do zarządzania projektami
-- dziennik roślin z AI
+ Ideas 🚀
+
+- AI project manager  
+- plant journal with AI  
+- idea generator  
+
+  PL
+
+ Pomysły 🚀
+
+- asystent AI do zarządzania projektami  
+- dziennik roślin z AI  
 - generator pomysłów
-
-Status: w trakcie
