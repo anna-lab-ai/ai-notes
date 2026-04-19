@@ -1,4 +1,4 @@
-   Anna Lab AI 🚀
+   Anna Lab AI 🚀  👉 Start here: [Dashboard](dashboard.md)
 
  🇬🇧 ENGLISH
 
@@ -23,7 +23,7 @@ IV. 🚀 Goals
 V. 📊 Status
 Work in progress 🚧
 
- 🇵🇱 POLSKI
+ 🇵🇱 POLSKI   
 
 Moje cyfrowe laboratorium projektow i eksperymentow AI.
 
