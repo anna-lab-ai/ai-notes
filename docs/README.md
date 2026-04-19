@@ -1,7 +1,7 @@
-GB  EN
+  EN
 Documentation 📂
 Project documentation and structured information.
 
-PL  
+  PL  
 Dokumentacja 📂
 Dokumentacja projektu i uporządkowane informacje
