@@ -13,3 +13,4 @@
 - asystent AI do zarządzania projektami  
 - dziennik roślin z AI  
 - generator pomysłów
+- W Trakc.
